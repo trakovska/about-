@@ -1,0 +1,44 @@
+body {
+  margin:0;
+  padding:0;
+}
+.wrap {
+		   width: 100%;
+		   height: 100%;
+		   padding: 0px;
+		   background: #e0112d;
+		   margin: 0px;
+		   }
+ .prvi {
+       background: #FFFFFF;
+       margin: 0;
+       padding: 0;
+       width: 50%;
+       height: 100vh;
+       float: left;
+       position: relative;
+       }
+ .drugi {
+   background: FFFFFF;
+       	margin-top: 20px;
+        padding: 0;
+       	width: 50%;
+       	height: 100vh;
+        float: left;
+        }
+.drugiwrap {
+  overflow: hidden;
+  width: 50%;
+}
+.prvia {
+  background: FFFFFF;
+		   margin: 0;
+		   padding: 0;
+		   width: 50%;
+		   height: 50vh;
+		   position: absolute;
+		   bottom: 25vh;
+		   left: 25%;
+       background-image: url("/img/asmiraa.jpg");
+       border-radius: 50%;
+}
